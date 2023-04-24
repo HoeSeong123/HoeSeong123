@@ -1,4 +1,4 @@
-# 코린이중의 코린이중의 코린이
+# 곧 최고 될 예정
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jik0601)](https://solved.ac/jik0601)
 
