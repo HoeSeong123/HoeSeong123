@@ -1,7 +1,11 @@
-### Hi there 👋
+# 코린이중의 코린이중의 코린이
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=on8214)](https://solved.ac/jik0601)
+
+![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=HoeSeong123&layout=compact&theme=merko)
 
 <!--
-**HoeSeong123/HoeSeong123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+HoeSeong123/HoeSeong123 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
