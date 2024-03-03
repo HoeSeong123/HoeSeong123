@@ -1,9 +1,5 @@
-# 곧 최고 될 예정
+### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HoeSeong123&show_icons=true&theme=merko) ![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=HoeSeong123&layout=compact&theme=merko)
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jik0601)](https://solved.ac/jik0601) 
 <!--
 HoeSeong123/HoeSeong123 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
